@@ -1,0 +1,13 @@
+1. Open the solution in Visual Studio
+2. Re-build the entire solution
+3. Publish the "Nop.Web" project from Visual Studio
+
+P.S. When publishing ensure that configuration is set to "Release"
+
+
+
+1.在Visual Studio中打开解决方案
+2.重新构建整个解决方案
+3.从Visual Studio发布“Nop.Web”项目
+
+附： 发布时，确保配置设置为“Release”
